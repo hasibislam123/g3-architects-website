@@ -218,9 +218,10 @@ main > section{
         gap: 24px;
     }
     #experience-badge{
-        margin-top: 20px;
-        margin-left: 20px;
+        margin-top: 10px;
+        margin-left: 10px;
     }
+    #experience-year
 }
 
 /*medium size device*/
